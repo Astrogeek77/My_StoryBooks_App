@@ -1,4 +1,4 @@
-# [My_StroyBooks_App](https://storybooksapplet.herokuapp.com/)
+# [My_StoryBooks_App](https://storybooksapplet.herokuapp.com/)
 
 > Create public and private stories from your life
 
